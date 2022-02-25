@@ -8,7 +8,7 @@ I'm Quank123Wip.
 - 📫 How to reach me: quank123wip@outlook.com
 - 😄 Pronouns: he/him
 
-If you read this, please try this brilliant markdown editor 🥛 (Saul-Mirone/milkdown)[https://github.com/Saul-Mirone/milkdown]!
+If you read this, please try this brilliant markdown editor 🥛 [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) !
 
 Feel free to reach me about any issues you encountered in using milkdown. I will try my best to solve it.
 <!--
