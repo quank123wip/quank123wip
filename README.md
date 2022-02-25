@@ -3,6 +3,7 @@ I'm Quank123Wip.
 
 - 🔭 I’m currently working on GuOJ Project.
 - 🌱 I’m currently learning Typescript, Vue.js and Node.js!
+- 💻 Prefered OS: Arch Linux, Debian, Microsoft Windows 11.
 - 🤔 I’m looking for help with projects in The GuOJ Project, which is a brandly new coding community in my dream. Ask me if you want to join!
 - 💬 Ask me about anything you think I know and meaningful for you!
 - 📫 How to reach me: quank123wip@outlook.com
